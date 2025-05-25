@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ammar-78
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Pythone
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open-source web development projects
 - 📫 How to reach me Via Email(Arshadammar250@gmail.com)
 
